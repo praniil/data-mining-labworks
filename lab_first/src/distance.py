@@ -1,4 +1,3 @@
-
 import numpy as np
 
 def eucledian(array1, array2):
